@@ -1,56 +1,42 @@
+# Layan Alfar - Portfolio
 
-TITLE: 
-Profile - 100% Fully Responsive Free HTML5 Bootstrap Template
+Welcome to my personal portfolio website! This site showcases my skills, projects, and experiences as a **Full-Stack Web Developer**. It demonstrates my passion for creating intuitive, responsive, and scalable web applications.
 
-AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
+## About Me
+Hi, I’m Layan, a software developer specializing in full-stack development. I have experience working with technologies like JavaScript, React, and ASP.NET. Over the past two years, I’ve worked on various projects that focus on enhancing user engagement and streamlining workflows.
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+## Features
+- **Responsive Design**: Optimized for different devices and screen sizes.
+- **Project Showcase**: Includes detailed descriptions of my development projects.
+- **Technologies**: Built using HTML, CSS, JavaScript, and React.
+- **Contact**: Option to reach out via email for inquiries.
 
+## Technologies Used
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap , SASS
+- **Deployment**: GitHub Pages
 
-CREDITS:
+## Projects
 
-Bootstrap
-http://getbootstrap.com/
+### **Training Management System**
+A web-based system to manage training sessions, feedback, and user roles (Admin, Trainer, Trainee). Features include course management, feedback collection, and secure authentication.
 
-jQuery
-http://jquery.com/
+**Technologies Used**: HTML, CSS, JavaScript, Bootstrap , React  
+**Role**: Front-end Developer  
+[GitHub Repo](https://github.com/GSG-FinalProject/Training-Management-System-FrontRepo)
 
-jQuery Easing
-http://gsgd.co.uk/sandbox/jquery/easing/
+### **L-Shop (E-Commerce Web Application)**
+An e-commerce platform for browsing products, managing a shopping cart, and secure user authentication.
 
-Modernizr
-http://modernizr.com/
+**Technologies Used**: React, Bootstrap, JavaScript, CSS ,HTML   
+**Role**: Front-end Developer  
+ [GitHub Repo](https://github.com/LayanAlfar0/L-Shop)
 
-Google Fonts
-https://www.google.com/fonts/
+### **Landing Page**
+A responsive, user-friendly landing page optimized for performance and cross-browser compatibility.
 
-Google Map
-http://maps.google.com/
+**Technologies Used**: HTML, CSS  
+**Role**: Front-end Developer    
+[GitHub Repo](Front-end Developer  )
 
-Icomoon
-https://icomoon.io/app/
-
-Respond JS
-https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
-
-animate.css
-http://daneden.me/animate
-
-jQuery Waypoint
-https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
-
-Stellar Parallax
-http://markdalgleish.com/projects/stellar.js/
-
-jQuery countTo
-http://www.owlcarousel.owlgraphic.com/
-
-EasyPieChart
-https://github.com/rendro/easy-pie-chart
-
-Demo Images:
-http://unsplash.com
-
+## Contact
+Feel free to reach out to me at [layanalfar0@gmail.com](mailto:layanalfar0@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/layan-alfar-28b0122bb).
